@@ -1,6 +1,6 @@
-#Heading
+# Heading
 
-##Smaller Heading
+## Smaller Heading
 
 *Italicize me*
 
